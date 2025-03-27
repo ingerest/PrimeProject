@@ -15,7 +15,7 @@ public:
 				number /= divisor;
 			}
 		}
-
+		
 		return result;
 	}
 };
